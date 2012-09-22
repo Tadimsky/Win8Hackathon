@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JONNO-DESKTOP</Machine>
+    <WindowsUser>Jonno</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>CC3E7081CDD4102726E7A155656450B3236DDE025D6C7C71F2CC5354DEA4181C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BUILD.a0dea937-4d55-4b1a-84dd-b28af9ff0627_1.0.0.1_neutral__3zkaj3ffv8h30</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BUILD.a0dea937-4d55-4b1a-84dd-b28af9ff0627_3zkaj3ffv8h30!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BUILD.a0dea937-4d55-4b1a-84dd-b28af9ff0627</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=7E5BA948-B889-4FFE-A4F1-D02C17F161CB</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T03:08:39.611</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\sendit.exe">
+      <PackagePath>sendit.exe</PackagePath>
+      <Modified>2012-09-22T03:09:45.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\sendit.pdb">
+      <PackagePath>sendit.pdb</PackagePath>
+      <Modified>2012-09-22T03:09:45.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\References\CommonConfiguration\Neutral\Microsoft.Live.Controls.dll">
+      <PackagePath>Microsoft.Live.Controls.dll</PackagePath>
+      <Modified>2012-08-02T17:43:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\References\CommonConfiguration\Neutral\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+      <Modified>2012-08-02T17:43:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MobileServicesManagedClient\0.2.0.0\References\CommonConfiguration\neutral\Microsoft.WindowsAzure.MobileServices.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.MobileServices.Managed.dll</PackagePath>
+      <Modified>2012-08-24T14:54:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\Hotmail.png">
+      <PackagePath>Microsoft.Live.Controls\Images\Hotmail.png</PackagePath>
+      <Modified>2012-05-17T18:26:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\Hotmail_black.png">
+      <PackagePath>Microsoft.Live.Controls\Images\Hotmail_black.png</PackagePath>
+      <Modified>2012-05-17T18:26:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\Messenger.png">
+      <PackagePath>Microsoft.Live.Controls\Images\Messenger.png</PackagePath>
+      <Modified>2012-05-17T18:26:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\Messenger_black.png">
+      <PackagePath>Microsoft.Live.Controls\Images\Messenger_black.png</PackagePath>
+      <Modified>2012-05-17T18:26:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\SkyDrive.png">
+      <PackagePath>Microsoft.Live.Controls\Images\SkyDrive.png</PackagePath>
+      <Modified>2012-05-17T18:26:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\SkyDrive_black.png">
+      <PackagePath>Microsoft.Live.Controls\Images\SkyDrive_black.png</PackagePath>
+      <Modified>2012-05-17T18:26:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\Windows.png">
+      <PackagePath>Microsoft.Live.Controls\Images\Windows.png</PackagePath>
+      <Modified>2012-05-17T18:26:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Live\v5.0\Metro XAML\Redist\CommonConfiguration\Neutral\Microsoft.Live.Controls\Images\Windows_black.png">
+      <PackagePath>Microsoft.Live.Controls\Images\Windows_black.png</PackagePath>
+      <Modified>2012-05-17T18:26:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T01:53:53.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T01:53:53.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T01:53:53.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T01:53:53.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-22T01:53:53.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\Common\Task.xaml">
+      <PackagePath>Common\Task.xaml</PackagePath>
+      <Modified>2012-09-22T01:53:53.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-22T01:53:53.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-22T02:19:26.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Downloads\sendit\sendit\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-22T03:08:39.590</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

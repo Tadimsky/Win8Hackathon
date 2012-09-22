@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JONNO-DESKTOP</Machine>
+    <WindowsUser>Jonno</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>CB3B0FD24C8FA5A18D8B646F6003C1BFD858CFB26DBFD3F85A64D2C8D1EAC4FF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bcebf971-37de-4c2a-8763-dc686169186a_1.0.0.0_neutral__6ap7pq0xkpnte</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bcebf971-37de-4c2a-8763-dc686169186a_6ap7pq0xkpnte!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bcebf971-37de-4c2a-8763-dc686169186a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jonno</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T02:06:12.761</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\Win8Sharer.exe">
+      <PackagePath>Win8Sharer.exe</PackagePath>
+      <Modified>2012-09-22T02:06:12.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\Win8Sharer.pdb">
+      <PackagePath>Win8Sharer.pdb</PackagePath>
+      <Modified>2012-09-22T02:06:12.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MobileServicesManagedClient\0.2.0.0\References\CommonConfiguration\neutral\Microsoft.WindowsAzure.MobileServices.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.MobileServices.Managed.dll</PackagePath>
+      <Modified>2012-08-24T14:54:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-13T02:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-13T02:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-13T02:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-22T00:28:24.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T20:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-09-22T02:04:18.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-09-22T00:28:24.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-09-22T00:28:24.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Users\Jonno\Documents\GitHub\Win8Hackathon\Win8Sharer\Win8Sharer\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-22T02:02:41.300</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

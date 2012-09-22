@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="BUILD.a0dea937-4d55-4b1a-84dd-b28af9ff0627" Publisher="CN=7E5BA948-B889-4FFE-A4F1-D02C17F161CB" Version="1.0.0.1" />
+  <Properties>
+    <DisplayName>Send It</DisplayName>
+    <PublisherDisplayName>Surface</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="sendit.App">
+      <VisualElements DisplayName="Send It!" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="sendit" ForegroundText="light" BackgroundColor="#464646" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.shareTarget">
+          <ShareTarget>
+            <SupportedFileTypes>
+              <SupportsAnyFileType />
+            </SupportedFileTypes>
+            <DataFormat>Text</DataFormat>
+            <DataFormat>URI</DataFormat>
+            <DataFormat>Bitmap</DataFormat>
+            <DataFormat>HTML</DataFormat>
+            <DataFormat>RTF</DataFormat>
+          </ShareTarget>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
