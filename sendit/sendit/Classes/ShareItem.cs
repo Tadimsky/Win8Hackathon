@@ -8,5 +8,6 @@ namespace sendit.Classes
 {
     class ShareItem
     {
+
     }
 }

@@ -13,10 +13,10 @@ namespace sendit.Classes
         public int Id { get; set; }
 
         [DataMember(Name = "fname")]
-        public string Text { get; set; }
+        public string FriendlyName { get; set; }
 
-        [DataMember(Name = "owner")]
-        public string Complete { get; set; }
+        [DataMember(Name = "userID")]
+        public string UserID { get; set; }
         
     }
 }
